@@ -1,0 +1,11 @@
+EXPORTS 
+	ov_new
+	ov_open
+	ov_free
+	ov_get_usb_speed
+	ov_set_usb_speed
+	ov_capture_start
+	ov_capture_dispatch
+	ov_capture_stop
+	ov_load_firmware
+	ov_get_error_string

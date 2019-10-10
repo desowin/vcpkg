@@ -1,0 +1,4 @@
+Source: libopenvizsla
+Version: 0.1.0
+Build-Depends: check, getopt, libusb, libftdi1, libzip
+Description: OpenVizsla host software library
